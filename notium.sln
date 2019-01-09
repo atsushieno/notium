@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notium", "Notium\Notium.csproj", "{3A3076F9-F89D-4C4B-AC53-E41B5CC23251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notium.Tests", "Notium.Tests\Notium.Tests.csproj", "{BE0881AA-C87E-40E0-8E01-DE4AC5919BC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{E24DF001-01C9-4781-AD38-E91252CBD836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotiumConsoleSample", "samples\NotiumConsoleSample\NotiumConsoleSample.csproj", "{AE07822F-3541-45B6-BAD1-2D9007DE4469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A3076F9-F89D-4C4B-AC53-E41B5CC23251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3076F9-F89D-4C4B-AC53-E41B5CC23251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3076F9-F89D-4C4B-AC53-E41B5CC23251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3076F9-F89D-4C4B-AC53-E41B5CC23251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0881AA-C87E-40E0-8E01-DE4AC5919BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0881AA-C87E-40E0-8E01-DE4AC5919BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0881AA-C87E-40E0-8E01-DE4AC5919BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0881AA-C87E-40E0-8E01-DE4AC5919BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE07822F-3541-45B6-BAD1-2D9007DE4469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE07822F-3541-45B6-BAD1-2D9007DE4469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE07822F-3541-45B6-BAD1-2D9007DE4469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE07822F-3541-45B6-BAD1-2D9007DE4469}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
